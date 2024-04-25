@@ -1,0 +1,13 @@
+{
+  "name": "hardhat-project",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.3",
+    "ts-node": "^10.9.2",
+    "dotenv": "^16.4.5"
+  }
+}
